@@ -1,0 +1,2 @@
+def fizzBuzz():
+  return True
