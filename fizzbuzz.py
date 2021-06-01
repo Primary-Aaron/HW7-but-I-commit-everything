@@ -1,2 +1,5 @@
 def fizzBuzz():
-  return True
+
+  tempList = []
+
+  return tempList
